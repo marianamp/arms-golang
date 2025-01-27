@@ -2,12 +2,11 @@
 
 ## Identificação de Autoria
 
-- Nome: *\<inserir nome>*
-- E-mail: *\<inserir e-mail>*
+- Nome: *Mariana Medeiros Pires*
+- E-mail: *ma.m.p@hotmail.com*
 
 ## Instruções
 
-Instruções para compilar e executar o programa.
-
---------
+Compile e execute com:
+bash go run aeroporto.go
 &copy; DIMAp/IMD UFRN 2024-2025
